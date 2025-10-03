@@ -20,8 +20,9 @@ It combines computer vision and deep learning to detect lanes and track obstacle
 ##  Demo
 Example output (lanes + tracked vehicles):  
 
-> ![Demo Screenshot]
-> <img width="1800" height="1169" alt="image" src="https://github.com/user-attachments/assets/fd914fa4-ca35-4f33-af77-6d84c9361187" />
+> [Demo Screenshot]
+<img width="1800" height="1169" alt="image" src="https://github.com/user-attachments/assets/16d4f73a-982f-4954-b132-07557487eb0a" />
+
  
 
 
@@ -45,3 +46,5 @@ Run lane & obstacle detection on your video:
 python main.py
 
 Press Q to quit the video window.
+
+
