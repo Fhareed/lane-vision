@@ -20,7 +20,9 @@ It combines computer vision and deep learning to detect lanes and track obstacle
 ##  Demo
 Example output (lanes + tracked vehicles):  
 
-> ![Demo Screenshot](docs/demo.png)  
+> ![Demo Screenshot]
+> <img width="1800" height="1169" alt="image" src="https://github.com/user-attachments/assets/fd914fa4-ca35-4f33-af77-6d84c9361187" />
+ 
 
 
 
@@ -28,7 +30,7 @@ Example output (lanes + tracked vehicles):
 
 Clone the repository:
 ```bash
-git clone https://github.com/YOUR-USERNAME/lane-vision.git
+git clone https://github.com/Fhareed/lane-vision.git
 cd lane-vision
 ```
 
